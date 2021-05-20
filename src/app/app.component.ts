@@ -7,9 +7,7 @@ import { Component , OnInit} from '@angular/core';
   styleUrls: ['./app.component.css']
 })
   export class AppComponent implements OnInit {
-  public user = {
-    name:'Alex'
-  };
+
   public x = 1;
 constructor() {
 }
